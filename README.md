@@ -6,8 +6,8 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning AWS, Ansible, Python, Terraform, Docker, Kubernetes.
+- 💡 Fun fact: I have graduated from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 🌱 I have quality experinece with AWS, Ansible, Python, Terraform, Docker, Kubernetes.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer, Devops Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtoahmedayobami91@gmail.com.
